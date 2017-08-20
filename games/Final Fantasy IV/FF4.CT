@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="28">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"60fps"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FF4.exe+1E23D4</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>49</Key>
+          </Keys>
+          <Value>0000001E</Value>
+          <Description>30fps 2</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>50</Key>
+          </Keys>
+          <Value>0000003C</Value>
+          <Description>60fps 2</Description>
+          <ID>1</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>51</Key>
+          </Keys>
+          <Value>0000005A</Value>
+          <Description>90fps 2</Description>
+          <ID>2</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>52</Key>
+          </Keys>
+          <Value>00000078</Value>
+          <Description>120fps 2</Description>
+          <ID>3</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>53</Key>
+          </Keys>
+          <Value>0000000F</Value>
+          <Description>15fps 2</Description>
+          <ID>4</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Toggle Activation</Action>
+          <Keys>
+            <Key>48</Key>
+          </Keys>
+          <Description>Freeze 2</Description>
+          <ID>5</ID>
+          <ActivateSound>Activate</ActivateSound>
+          <DeactivateSound>Deactivate</DeactivateSound>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
